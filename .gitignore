@@ -1,0 +1,44 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environment
+
+venv/
+env/
+ENV/
+
+# VS Code settings
+
+.vscode/
+
+# PyCharm settings
+
+.idea/
+
+# Mac system files
+
+.DS_Store
+
+# Windows system files
+
+Thumbs.db
+
+# Data files (optional - remove if you want to upload dataset)
+
+*.csv
+*.xlsx
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
